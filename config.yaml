@@ -1,6 +1,6 @@
 baseurl: /
 languageCode: en-US
-title: A Hugo website
+title: American Chinese Postdoctoral Scientist Association
 theme: tophat
 ignoreFiles:
   - \.Rmd$
