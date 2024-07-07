@@ -14,6 +14,11 @@ menu:
       url: https://github.com/rstudio/blogdown
     - name: Twitter
       url: https://twitter.com/rstudio
+      
+params:
+  personalStatement: "Our association is dedicated to supporting the career development and scientific advancement of American Chinese postdoctoral scientists."
+menu:
+      
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
