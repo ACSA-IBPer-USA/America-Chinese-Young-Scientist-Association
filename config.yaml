@@ -17,11 +17,6 @@ menu:
     - name: Twitter
       url: https://twitter.com/rstudio
 params:
-  
-  ![Alt text](/img/2022-1.png)
-  <img src="/img/2022-1.png" alt="Alt text">
-  <img src="{{ .Site.BaseURL }}img/your-image.jpg" alt="Alt text">
-
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
   description: A website built through Hugo and blogdown.
