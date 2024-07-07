@@ -1,6 +1,6 @@
 baseurl: /
 languageCode: en-US
-title: American Chinese Postdoctoral Scientist Association
+title: American Chinese Postdoctoral Scientist Association 
 theme: tophat
 ignoreFiles:
   - \.Rmd$
@@ -29,9 +29,9 @@ params:
   highlightjsVersion: 9.12.0
   logo:
     alt: Logo
-    height: 50
+    height: 100
     url: logo.png
-    width: 50
+    width: 100
 markup:
   defaultMarkdownHandler: goldmark
   goldmark:
